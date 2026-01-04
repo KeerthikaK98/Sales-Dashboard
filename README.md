@@ -8,7 +8,7 @@
 
 ## Dashboard Preview
 
-![Executive Summary](docs/Dashboard.png)
-![Customer Details](docs/CustomerDetails.png)
-![Category Details](docs/CategoryDetails.png)
-![Shipping Details](docs/ShippingDetails.png)
+![Executive Summary](Dashboard.png)
+![Customer Details](CustomerDetails.png)
+![Category Details](CategoryDetails.png)
+![Shipping Details](ShippingDetails.png)
