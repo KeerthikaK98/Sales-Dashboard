@@ -12,3 +12,6 @@
 ![Customer Details](CustomerDetails.png)
 ![Category Details](CategoryDetails.png)
 ![Shipping Details](ShippingDetails.png)
+
+## Dashboard Walkthrough ##
+https://youtu.be/sy2-DZvea4o
