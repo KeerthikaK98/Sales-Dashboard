@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Executive Summary](docs/Dashboard1.png)
+![Executive Summary](Dashboard1.png)
